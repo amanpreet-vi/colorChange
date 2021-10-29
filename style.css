@@ -2,3 +2,15 @@
   margin: 0;
   padding: 0;
 }
+table {
+  margin: 40px;
+  border-collapse: collapse;
+  border: 2px solid black;
+}
+td {
+  vertical-align: middle;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+}
